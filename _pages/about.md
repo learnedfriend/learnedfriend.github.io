@@ -12,7 +12,7 @@ redirect_from:
 <svg viewBox="0 0 250 20" xmlns="http://www.w3.org/2000/svg">
   <g>
     <text font-family="monospace" fill="black" x="0" y="15">Hello world!</text>
-    <rect fill="white" x="0" y="0" width="0" height="20">
+    <rect fill=#5a7854 x="0" y="0" width="0" height="20">
       <animate attributeName="x" values="0 ; 96 ; 96 ; 0" dur="3s" repeatCount="indefinite" />
       <animate attributeName="width" values="96; 0; 0; 96" dur="3s" repeatCount="indefinite" />
     </rect>
