@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "What do you care about?"
+title: "Am I the right lawyer for you?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-As a lawyer, my job is to give my clients the legal advice and representation they need to make the things they care about happen. Most of my professional experience is in government, where I helped decision makers stay on the straight and narrow. I also provided commercial legal support to large government investments, and handled complex property and information technology matters. Beyond that, I've developed a strong interest in areas of law that are about helping individual people.
+I'm a New Zealand qualified lawyer with six years' experience doing a mix of public, commercial, privacy, and property law within government. Working directly for the public good was fulfilling, but reasoned that I could have a greater impact as an independent lawyer working to help individual clients.
 
-Whether the thing you care about is big or small, the fact that you care is what matters to me.
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
+
+
+
+
+
 
 I have experience in:
 
