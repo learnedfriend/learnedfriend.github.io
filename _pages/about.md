@@ -7,17 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<script src="https://unpkg.com/typeit@8.0.7/dist/index.umd.js">
-
-</script>
-
-<script>
-new TypeIt("#element", {
-  strings: "This is my string!",
-  speed: 75,
-  loop: true,
-}).go();
-</script>
+<p id="element"></p>
 
 Economists like to think about the world as though it were a collection of functions. A person cares about about some thing *Y*, it takes the form *Y* = *x*<sub>1</sub> + *x*<sub>2</sub> + … + *x*<sub>n</sub>, and the person just goes absolutely ham at picking all the right values to maximise *Y*.
 
