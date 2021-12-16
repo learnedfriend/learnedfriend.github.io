@@ -10,4 +10,6 @@ main:
     url: /cv/
     
   - title: "Self Help"
-    url: /markdown/
+    url: https://app.amazingmarvin.com/
+    
+    #/markdown/
