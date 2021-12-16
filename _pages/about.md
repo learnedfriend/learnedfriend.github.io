@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<script src="https://unpkg.com/typeit@8.0.7/dist/index.umd.js"></script>
+<script src="https://unpkg.com/typeit@8.0.7/dist/index.umd.js">
+
+</script>
 
 <script>
 new TypeIt("#element", {
