@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Am I the right lawyer for you?"
+title: "I want to make things (even) better."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
