@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "It's 2022: even thinking can be outsourced."
+title: "With ~15,000 lawyers in Aotearoa, why choose me?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
