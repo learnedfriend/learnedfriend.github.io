@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Let's optimise for *Y*."
+title: "Let's optimise for <sub>wh</sub>Y."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Math people like to think about the world as though it were a collection of functions. A person cares about about some thing *Y*, it takes the form *Y* = *x<sub>1</sub>* + *x<sub>2</sub>* + ... + *x<sub>n</sub>*, and the person just goes absolutely ham at picking all the right values to maximise X.
+Math people like to think about the world as though it were a collection of functions. A person cares about about some thing Y, it takes the form Y = x1 + x2 + … + xn, and the person just goes absolutely ham at picking all the right values to maximise X.
 
-One view of my job as a lawyer is that I just help you pick the best value of *x<sub>legal stuff</sub>* in isolation. Sometimes that's what a client will want - a legal advisor who stays in their lane and confines their advice to black letter law. Generally speaking, though, I reckon a lawyer is better when they help you optimise for *Y*. If you're game, let's identify your *Y* - the thing you really care about - and then let's work together to optimise for that.
+One view of my job as a lawyer is that I just help you pick the best value of xlegal stuff in isolation. Sometimes that’s what a client will want - a legal advisor who stays in their lane and confines their advice to black letter law. Generally speaking, though, I reckon a lawyer is better when they help you optimise for Y. If you’re game, let’s identify your Y - the thing you really care about - and then let’s work together to optimise for that.
 
 ## Ko wai ahau? Who am I?
 I'm a New Zealand lawyer with six years' experience doing a mix of public, commercial, privacy, and property law within government. Working directly for the public good was fulfilling, but reasoned that I could have a greater impact as an independent lawyer working to help individual clients.
