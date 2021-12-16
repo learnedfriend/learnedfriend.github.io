@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Let's optimise for <sub>wh</sub><em>Y</em>."
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
