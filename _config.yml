@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ask <sub>wh</sub>*Y*"
+title                    : "Ask <em><sub>wh</sub>Y</em> "
 title_separator          : "-"
 name                     : &name "Learned Friend Limited"
 description              : &description "personal description"
