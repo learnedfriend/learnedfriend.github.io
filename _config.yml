@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Learned Friend"
+title                    : "Milk Law"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tyrone-Jay Barugh"
   avatar           : "lf.png"
-  bio              : 
+  bio              : "Barrister and Solicitor"
   location         : "Pōneke | Wellington, NZ"
   phone            : "+64 27 357 1665"
   pubmed           : 
   googlescholar    : 
-  email            : "tyrone@learnedfriend.nz"
+  email            : "tyrone@milklaw.nz"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
