@@ -15,11 +15,11 @@ redirect_from:
   <g>
     <text font-family="monospace" fill="black" x="0" y="15">Hello world!</text>
     <rect fill="#5a7854" x="0" y="0" width="0" height="20">
-      <animate attributeName="x" values="0 ; 96 ; 96 ; 0" dur="3s" repeatCount="indefinite" />
-      <animate attributeName="width" values="96; 0; 0; 96" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="x" values="0 ; 96 ; 96 ; 0" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="width" values="96; 0; 0; 96" dur="10s" repeatCount="indefinite" />
     </rect>
     <rect fill="black" x="0" y="4" width="1" height="12">
-      <animate attributeName="x" values="0 ; 96 ; 96 ; 0" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="x" values="0 ; 96 ; 96 ; 0" dur="10s" repeatCount="indefinite" />
       <animate attributeName="width" calcMode="discrete" values="1; 0" dur="1s" repeatCount="indefinite" />
     </rect>
   </g>
