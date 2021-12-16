@@ -9,37 +9,13 @@ redirect_from:
 ---
 
 
-
-
-<svg viewBox="0 0 250 20" xmlns="http://www.w3.org/2000/svg">
-  <g>
-    <text font-family="monospace" fill="black" x="0" y="15">Hello world!</text>
-    <rect fill="#5a7854" x="0" y="0" width="0" height="20">
-      <animate attributeName="x" values="0 ; 96 ; 96 ; 0" dur="10s" repeatCount="indefinite" />
-      <animate attributeName="width" values="96; 0; 0; 96" dur="10s" repeatCount="indefinite" />
-    </rect>
-    <rect fill="black" x="0" y="4" width="1" height="12">
-      <animate attributeName="x" values="0 ; 96 ; 96 ; 0" dur="10s" repeatCount="indefinite" />
-      <animate attributeName="width" calcMode="discrete" values="1; 0" dur="1s" repeatCount="indefinite" />
-    </rect>
-  </g>
-</svg>
-
-
-<!--
-<svg viewBox="0 0 300 20" xmlns="http://www.w3.org/2000/svg">
-  <g>
-    <text font-family="monospace" fill="black" x="0" y="15" clip-path="inset(0 0 0 0) fill-box">Firefox only
-      <animate attributeName="clip-path" values="inset(0 100% 0 0) ; inset(0 0 0 0) ; inset(0 0 0 0) ; inset(0 100% 0 0)" keyTimes="0 ; 0.4 ; 0.6 ; 1" dur="3s" repeatCount="indefinite" />
-    </text>
-    <rect fill="black" x="0" y="4" width="1" height="12">
-      <animate attributeName="x" values="0 ; 96 ; 96 ; 0" keyTimes="0 ; 0.4 ; 0.6 ; 1" dur="3s" repeatCount="indefinite" />
-      <animate attributeName="width" calcMode="discrete" values="1; 0" dur="1s" repeatCount="indefinite" />
-    </rect>
-  </g>
-</svg>
--->
-
+I am <span class="type">
+  <span>
+    <span>a CSS Hacker</span>
+    <span>an expert web developer</span>
+    <span>a lazy person!</span>
+  </span>
+</span>
 
 
 Economists like to think about the wor ld as thou gh it were a collection of functi ons. A person cares about about some thing *Y*, it takes the form *Y* = *x*<sub>1</sub> + *x*<sub>2</sub> + … + *x*<sub>n</sub>, and the person just goes absolutely ham at picking all the right values to maximise *Y*.
