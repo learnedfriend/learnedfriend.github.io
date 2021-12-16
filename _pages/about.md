@@ -1,14 +1,19 @@
 ---
 permalink: /
-title: "I want to make things (even) better."
+title: "Let's optimise for *Y*."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Math people like to think about the world as though it were a collection of functions. People care about some thing, *Y*, it takes the form **Y** = 
 
-I'm a New Zealand qualified lawyer with six years' experience doing a mix of public, commercial, privacy, and property law within government. Working directly for the public good was fulfilling, but reasoned that I could have a greater impact as an independent lawyer working to help individual clients.
+It doesn't really matter what \[X\] is. You know what \[X\] represents, you  and you know better than me what variables plug into the 
+
+I'm a New Zealand lawyer with six years' experience doing a mix of public, commercial, privacy, and property law within government. Working directly for the public good was fulfilling, but reasoned that I could have a greater impact as an independent lawyer working to help individual clients.
+
+
 
 <details><summary>CLICK ME</summary>
 <p>
