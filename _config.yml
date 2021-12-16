@@ -310,6 +310,3 @@ compress_html:
   ignore:
     envs: development
 
-head_scripts:
-  - https://unpkg.com/typeit@8.0.7/dist/index.umd.js
-  - /assets/js/typing.js
