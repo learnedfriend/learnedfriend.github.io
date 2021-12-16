@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p id="element"></p>
-
 Economists like to think about the world as though it were a collection of functions. A person cares about about some thing *Y*, it takes the form *Y* = *x*<sub>1</sub> + *x*<sub>2</sub> + … + *x*<sub>n</sub>, and the person just goes absolutely ham at picking all the right values to maximise *Y*.
 
 One view of my job as a lawyer is that I just help you pick the best value of *x*<sub>legal stuff</sub> in isolation. Sometimes that’s what a client will want - a legal advisor who stays in their lane and confines their advice to black letter law. Generally speaking, though, I reckon a lawyer is better when they help you optimise for *Y*. If you’re game, let’s identify your <sub>wh</sub>*Y* - the thing you really care about - and then let’s work together to optimise for that.
