@@ -15,13 +15,13 @@ redirect_from:
 .type > span {
   display:grid;
   overflow: hidden;
-  height:1em;
+  height:1.2em;
 }
 .type span span {
   width:0%;
   max-width:max-content;
   overflow: hidden;
-  height:1.3em;
+  height:inherit;
   word-break:break-all;
   animation:
     c 0.5s infinite steps(1),  
