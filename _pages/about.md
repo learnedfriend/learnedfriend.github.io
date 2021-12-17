@@ -68,6 +68,29 @@ I have a Master of Laws and bachelor's degrees in law and economics from Te Here
 
 ## Am I a good choice of lawyer for you?
 
+
+<details><summary>You need a commercially-minded legal advisor.</summary>
+<p>
+
+I'm not a commercial lawyer at a top-tier law firm. I'm not the right choice to close your M&A deal or help you wet lease an A380. This much is obvious.
+  
+On the other hand, I am a pretty capable contracts lawyer. I regularly draft, negotiate, and review the sorts of commercial agreements that a typical business might want day-to-day legal advice on.
+  
+* data-sharing agreements;
+* non-disclosure agreements;
+* IT services contracts (from one-off engagements to multimillion-dollar Master Services Agreements with handfuls of statements of work);
+* leases and licences;
+* consulting agreements.
+  
+I've got particular experience with government procurement processes - and can help suppliers  the Government Procurmeent Rules and the Government Model Contract.
+  
+I'm enthusiastic about better contract drafting; as much as I love a good "whereas" or "hereinbefore", I'm committed to using tools like [Ken Adams' Manual of Style for Contract Drafting](https://www.adamsdrafting.com/writing/mscd/) to deliver you (and your suppliers and customers) contracts that you can understand and rely on.
+  
+Testimonial: *[insert]*
+
+</p>
+</details>
+
 <details><summary>You love running your small business, but a legal issue is costing you sleep.</summary>
 <p>
 
@@ -135,17 +158,47 @@ I've:
   * delivered training to staff in privacy-sensitive roles.
   
 For organisations who would benefit from regular privacy support, I offer an affordable 'Virtual Privacy Officer' service.
+  
+Testimonial: *insert here*
 
 </p>
 </details>
 
-## Experience
+<details><summary>You're dealing with government in relation to land (e.g. public works, reserves, rating valuation disputes, and Crown land matters).</summary>
+<p>
 
-* commercial negotiations and contract drafting;
-* public law;
-* privacy law;
-* navigating complex public sector processes, including procurement and policy work;
-* the Overseas Investment Act 2005;
-* Government land matters, including the taking/disposal of land under the Public Works Act 1981;
-* residential tenancy law, including the 'healthy homes standards';
-* consumer law.
+I have a strong knowledge of the legal framework within which government agencies acquire, administer, and dispose of land.
+  
+I also have a strong understanding of the law relating to local government rating valuations, and can represent clients in the Land Valuation Tribunal. During the March-May 2020 COVID-19 lockdown in Aotearoa, I was heavily involved in (and helped draft) a [temporary amendment to the Rating Valuations Act 1998](https://www.legislation.govt.nz/act/public/2020/0013/latest/LMS343872.html).
+  
+</p>
+</details>
+
+<details><summary>You bought a lemon.</summary>
+<p>
+
+I'm uniquely enthusiastic about consumer law. If the thing you bought is reasonably expensive and fails to live up to the consumer guarantees, it might be worth engaging a lawyer to help you get the best result possible.
+  
+If it comes to it, I can help you prepare a high quality application to the Disputes Tribunal or Motor Vehicle Disputes Tribunal. Lawyers cannot represent clients in the Tribunal, but I can help you improve your chances of a successful outcome.
+  
+If the thing you bought is not very expensive at all, you might like to:
+  * use the templates and guidance on the self-help section of my website;
+  * ask about having your consumer issue featured on my podcast - I'll provide assistance free of charge, provided that you'll let me discuss it on the show (without identifying you).
+  
+</p>
+</details>
+
+
+<details><summary>Your landlord seems pathologically unable to comply with tenancy law.</summary>
+<p>
+
+I'm very eager to help renters stick up for their rights under tenancy law. I've got good experience in this area, having represented a public sector housing provider in complex Tenancy Tribunal matters, and on appeal in the District Court. I currently provide pro-bono advice to [Renters United!](https://www.rentersunited.org.nz/), a Wellington advocacy group that organises renters and campaigns to make renting better for everyone. ((drafting note: need to approach Renters United before this goes live))
+  
+I encourage people to look at the templates and guidance on the self-help section of my website in the first instance.
+  
+However, if your sense is that some support from a lawyer could turn the tide, I will take note of all of the issues you mention - even if your landlord hasn't - and then help you identify your legal rights (and responsibilities, and risks). I can help you draft a 14-day notice to remedy that covers all of the issues, and help you liaise with your landlord.
+  
+If your case is very complex, we can consider applying for permission for me to represent you in the Tribunal - lawyers cannot appear as a general rule, but I have successfully obtained permission in the past.
+  
+</p>
+</details>
