@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-If you need urgent help, please feel free to call me: <p><a href="tel:+64 27 357 1665">+64 27 357 1665</a></p>. If I do not pick up, text or email and I will respond as soon as possible.
+If you need urgent help, please feel free to call me: <a href="tel:+64 27 357 1665">+64 27 357 1665</a>. If I do not pick up, text or email and I will respond as soon as possible.
 
 If your matter is not urgent:
 * for a no-charge initial consultation, please [book directly into my calendar](https://calendly.com/)
