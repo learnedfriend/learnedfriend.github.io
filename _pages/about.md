@@ -45,11 +45,11 @@ redirect_from:
 
     </style>
 <h1>
-Let's use the law to <span class="type">
+Using law to <span class="type">
   <span>
     <span>💧 over spilt 🥛.</span>
-    <span>prevent the 🥛 getting spilt.</span>
-    <span>move on from a glass of spilt 🥛. </span>
+    <span>prevent 🥛 getting spilt.</span>
+    <span>🪣 🧽 clean up spilt 🥛. </span>
   </span>
 </span>
 </h1>
