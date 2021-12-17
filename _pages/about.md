@@ -68,7 +68,7 @@ I have a Master of Laws and bachelor's degrees in law and economics from Te Here
 
 ## Am I a good choice of lawyer for you?
 
-<details><summary>You run a small business.</summary>
+<details><summary>You love running your small business, but a legal issue is costing you sleep.</summary>
 <p>
 
 I understand how hard you work. My mum has been running small businesses since before I was born, and she never stops going. You don't have that many legal problems - but when you do, the disruption to your business is a real problem. 
@@ -76,16 +76,70 @@ I understand how hard you work. My mum has been running small businesses since b
 I'll ask you what kind of advice you need to solve your problem. If you want a traditional in-depth opinion to understand a whole area of legal risk, you've got it. But if you're looking for easy to digest advice that identifies a clear path forward, then it's my job to give you that.
   
 I'm a phone call or email away for one-off questions, but can also provide more regular - and affordable - input to help you proactively spot risks before you run into trouble.
+  
+Testimonial: *[insert]*
 
 </p>
 </details>
 
+<details><summary>You're in a pickle with a government agency or regulator.</summary>
+<p>
 
+With six years' experience working with and for regulators, I understand the theory - and practical reality - of regulation.
+  
+Whether you're trying to get an elusive approval or facing enforcement action, I'll help you see how far up the 'Regulatory Pyramid' you might be and, if at all possible, help you to shift further towards the bottom.
+  
+Testimonial: *[insert]*
 
+</p>
+</details>
+
+<details><summary>It feels like you'll never end this dispute.</summary>
+<p>
+
+Court is no fun at all. And even if the dispute is eventually resolved short of Court, the time and emotional energy that goes into even a simple dispute can leave even the most resilient of us pretty drained.
+  
+If it comes to it, I can argue your corner in Court. But first, I'll help you identify any options to find a compromise that all sides can agree on, but which still meets your bottom lines.
+  
+Testimonial: *[insert]*
+
+</p>
+</details>
+
+<details><summary>You think the government is failing to follow the law.</summary>
+<p>
+
+The law applies to everybody, and especially to the government. In my six years' working for the New Zealand government, I helped keep decision-makers on the straight and narrow.
+  
+Putting the [structural problems of the public service](https://thespinoff.co.nz/politics/01-07-2019/crocodile-in-the-river-how-public-servants-avoid-being-eaten-by-the-oia) aside, almost all of the people I worked with in central government were motivated to do the right thing. I can help you ask the right questions and engage in a way that taps into that motivation, rather than in a way that erodes officials' goodwill.
+  
+Naturally, there is a non-trivial risk that the soft and constructive approach fails. Having engaged in good faith, you'll be much better placed to challenge the government decision in Court - either with my help, or with an expert barrister taking over.
+  
+*Note: I sometimes do legal work for public sector organisations. It's more likely than not that I will be able to act for you - but as part of the initial consultation I'll check whether there are any conflicts of interest that may prevent this.*
+
+</p>
+</details>
  
 
+<details><summary>You've got privacy risks -- or a privacy problem.</summary>
+<p>
 
-I have experience in:
+I know the Privacy Act 2020 (NZ) inside out, and have a pretty good grasp of the EU's GDPR.
+  
+I've:
+  
+  * drafted the privacy strategy and Privacy Policy for a significant government agency, so I can help you go to the *n<sup>th</sup>* degree if that's where your risk tolerance lies. 
+  * got experience identifying practical solutions that focus on mitigating the big, scary sources of privacy risk - letting you sleep easier without compromising your organisation's ability to get the job done.
+  * drafted and reviewed privacy impact assessments;
+  * calmly guided the response to privacy breaches; and
+  * delivered training to staff in privacy-sensitive roles.
+  
+For organisations who would benefit from regular privacy support, I offer an affordable 'Virtual Privacy Officer' service.
+
+</p>
+</details>
+
+## Experience
 
 * commercial negotiations and contract drafting;
 * public law;
