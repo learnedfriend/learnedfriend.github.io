@@ -37,7 +37,7 @@ redirect_from:
 }
 @keyframes c{
   0%,100%{box-shadow:5px 0 0 #0000}
-  50%    {box-shadow:5px 0 0 red  }
+  50%    {box-shadow:5px 0 0 #fff  }
 }
 @keyframes m{
   100% {transform:translateY(-300%)}
@@ -45,7 +45,7 @@ redirect_from:
 
     </style>
 <h1>
-  <span style="line-height: 1.2;"> Using law to</span><span class="type">
+  <span style="line-height: 1.4;"> Using law to </span><span class="type">
   <span>
     <span>💧 over spilt 🥛.</span>
     <span>prevent 🥛 getting spilt.</span>
