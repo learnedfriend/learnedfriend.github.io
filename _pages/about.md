@@ -45,7 +45,7 @@ redirect_from:
 
     </style>
 <h1>
-Using law to <span class="type">
+  <span style="line-height: 1.2;"> Using law to</span><span class="type">
   <span>
     <span>💧 over spilt 🥛.</span>
     <span>prevent 🥛 getting spilt.</span>
