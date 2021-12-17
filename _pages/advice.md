@@ -7,6 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
+
+If you need urgent help, please feel free to call me: <p><a href="tel:+64 27 357 1665">+64 27 357 1665</a></p>. If I do not pick up, text or email and I will respond as soon as possible.
+
+If your matter is not urgent:
+* for a no-charge initial consultation, please [book directly into my calendar](https://calendly.com/)
+* otherwise, please email me: tyrone@spilledmilk.nz
+* if you want to apply for pro-bono or reduced fee assistance, please [ill out this form](form) instead of booking a time or emailing. I will respond to your enquiry within one week.
+
+Before I accept any instructions from you, there are some things that you should take note of. I really encourage you to read the notes below now, but I will also set all of this out in an email to you if you choose to instruct me.
+
+### Location and COVID-19 precautions
+* I am currently based in Wellington. I am happy to meet clients at my offices, and can arrange to meet clients on their own premises where appropriate.
+* During the COVID-19 pandemic, I will not meet any client in person who is unable to present a My Vaccine Pass.
+* I anticipate reclocating outside of New Zealand in the medium-term. I intend to continue practising law remotely, 
+
 ### Fees
 
 * I generally charge hourly fees. My standard hourly fee is **$190 + GST** (i.e. $218.50 incl. GST). I acknowledge that this expensive in absolute terms - but it is also at the lower end of fees charged by New Zealand lawyers.
