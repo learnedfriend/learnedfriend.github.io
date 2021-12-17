@@ -9,9 +9,9 @@ author_profile: true
 
 ### Fees
 
-* I generally charge hourly fees. My standard hourly fee is **$250 + GST** (i.e. $287.50). I acknowledge that this expensive in absolute terms - but it is also at the lower end of fees charged by New Zealand lawyers.
-* I offer a no-charge initial phone consultation of up to 30 minutes. After that, I can provide you with an estimate of the likely cost to carry out your instructions.
-* Depending on your instructions, I may be able to offer a fixed fee.
+* I generally charge hourly fees. My standard hourly fee is **$190 + GST** (i.e. $218.50 incl. GST). I acknowledge that this expensive in absolute terms - but it is also at the lower end of fees charged by New Zealand lawyers.
+* I offer a no-charge initial phone consultation of up to 30 minutes. After that, I can provide you with an estimate of the likely cost to carry out your instructions. If that estimate is likely to be exceeded, I will let you know as soon as possible.
+* Depending on your instructions, I may be able to offer a fixed fee. Unlike an estimate, a fixed fee is a final price - so whether I can offer a fixed fee will largely depend on whether we have enough information to confidently assess the likely time/effort involved.
 * I generally do not offer conditional fee arrangements (such as 'no win, no fee'). If I think you have a strong case and we can objectively define a 'successful' outcome, then a conditional fee may be possible.
 
 ### Pro-bono work
@@ -22,7 +22,7 @@ author_profile: true
 
 ### Legal aid
 * I am a **supervised** legal aid provider in the following areas: civil, family, refugee/protected persons, parole, and criminal.
-* This means that you can engage me to do legal aid work, but that a more senior lawyer will supervise my work. There is no extra cost to you for that supervision, but it does mean that my supervising lawyer will be involved in some aspects of your legal work.
+* This means that you can engage me to do legal aid work, but that a more senior lawyer from another firm will supervise my work. There is no extra cost to you for that supervision, but it does mean that my supervising lawyer will be involved in some aspects of your legal work.
 
 ### Standard terms of engagement
 The following terms apply to our relationship with you if we agree to act for you. However, these terms are subject to any other agreement we might make - if we agree to work together on a different basis, then that agreement will take precedence over these terms.
