@@ -44,6 +44,7 @@ redirect_from:
 }
 
     </style>
+<h1>
 I am <span class="type">
   <span>
     <span>a CSS Hacker</span>
@@ -51,6 +52,7 @@ I am <span class="type">
     <span>a lazy person!</span>
   </span>
 </span>
+</h1>
 
 
 Economists like to think about the wor ld as thou gh it were a collection of functi ons. A person cares about about some thing *Y*, it takes the form *Y* = *x*<sub>1</sub> + *x*<sub>2</sub> + … + *x*<sub>n</sub>, and the person just goes absolutely ham at picking all the right values to maximise *Y*.
