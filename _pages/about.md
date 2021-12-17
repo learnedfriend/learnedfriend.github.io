@@ -24,9 +24,9 @@ redirect_from:
   height:inherit;
   word-break:break-all;
   animation:
-    c 1s infinite steps(1),  
-    t 4s linear infinite alternate,
-    m 24s steps(3) infinite;
+    c 2s infinite steps(1),  
+    t 8s linear infinite alternate,
+    m 48s steps(3) infinite;
 }
 .type span span:before {
   content:" ";
@@ -44,7 +44,7 @@ redirect_from:
 }
 
     </style>
-<h2>
+<h1>
   <span style="line-height: 1.4;"> </span><span class="type">
   <span>
     <span>It's OK to 💧 over spilt 🥛.</span>
@@ -52,7 +52,7 @@ redirect_from:
     <span>Whether your 🥛 is spilt or not, we can help. </span>
   </span>
 </span>
-</h2>
+</h1>
 
 
 I'm a New Zealand lawyer with six years' experience doing a mix of public, commercial, privacy, and property law. Whether you're trying to avoid legal risk or clean up a legal mess, I'm ready to help.
