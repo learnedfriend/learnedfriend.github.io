@@ -13,7 +13,7 @@ If you need urgent help, please feel free to call me: <a href="tel:+64 27 357 16
 If your matter is not urgent:
 * for a no-charge initial consultation, please [book directly into my calendar](https://calendly.com/)
 * otherwise, please email me: tyrone@spilledmilk.nz
-* if you want to apply for pro-bono or reduced fee assistance, please [ill out this form](form) instead of booking a time or emailing. I will respond to your enquiry within one week.
+* if you want to apply for pro-bono or reduced fee assistance, please [fill out this form](form) instead of booking a time or emailing. I will respond to your enquiry within one week.
 
 Before I accept any instructions from you, there are some things that you should take note of. I really encourage you to read the notes below now, but I will also set all of this out in an email to you if you choose to instruct me.
 
