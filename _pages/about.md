@@ -55,11 +55,13 @@ redirect_from:
 </h1>
 
 
-I'm a New Zealand lawyer with six years' experience doing a mix of public, commercial, privacy, and property law. Whether you're trying to avoid legal risk or clean up a legal mess, I'm ready to help. 
+I'm a New Zealand lawyer with six years' experience doing a mix of public, commercial, privacy, and property law. Whether you're trying to avoid legal risk or clean up a legal mess, I'm ready to help.
 
-I've got really varied interests. I grew up rurally but maintain a city-slicker disposition. I've learned to copy from StackOverflow, and written heaps of spaghetti code. I [sued the Wellington City Council](https://www.stuff.co.nz/national/crime/125163476/lawyer-appeals-102yearold-law-about-wellingtons-milk-supply) to ~~get the sole rights to sell milk in Wellington~~ make a Very Clever point about the rule of law.
+I was previously an in-house laywer with the New Zealand government, but now act for individuals, businesses and community organisations too. I do some pro-bono work, and am approved to take legal aid work with supervision from a senior lawyer.
 
-I have a Master of Laws and bachelor's degrees in law and economics from Te Herenga Waka | Victoria University of Wellington. Plus, I'm completing a Master of Environmental Management degree at Te Kunenga ki Pūrehuroa | Massey University.
+I've got really varied interests. I grew up rurally but maintain a city-slicker disposition. I've learned to copy from StackOverflow, and written heaps of spaghetti code. I [sued the Wellington City Council](https://www.stuff.co.nz/national/crime/125163476/lawyer-appeals-102yearold-law-about-wellingtons-milk-supply) to ~~get the sole rights to sell milk in Wellington~~ make a Very Clever point about the rule of law.  I care a lot about promoting joy and reducing suffering, and I am heavily involved with the [Effective Altruism movement](https://effectivealtruism.nz/). I know very little physics, but desperately want to know if the ['many-worlds' interpretation](https://plato.stanford.edu/entries/qm-manyworlds/) of quantum mechanics is true.
+
+I have a Master of Laws and bachelor's degrees in law and economics from Te Herenga Waka \| Victoria University of Wellington. Plus, I'm completing a Master of Environmental Management degree at Te Kunenga ki Pūrehuroa \| Massey University. I also have a half-finished BA in data science, which I hope to finish as work allows.
 
 
 ## Am I a good choice of lawyer for you?
