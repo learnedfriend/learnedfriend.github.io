@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Get Help"
+  - title: "Hire Me"
     url: /advice/
+
+  - title: "Self Help Tools"
+    url: /selfhelp/
         
   - title: "Blog"
     url: /year-archive/
@@ -9,7 +12,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Self Help"
-    url: https://app.amazingmarvin.com/
+
     
     #/markdown/
