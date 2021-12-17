@@ -45,11 +45,11 @@ redirect_from:
 
     </style>
 <h1>
-I am <span class="type">
+Let's use the law to <span class="type">
   <span>
-    <span>a CSS Hacker</span>
-    <span>an expert web developer</span>
-    <span>a lazy person!</span>
+    <span>💧 over spilt 🥛.</span>
+    <span>prevent the 🥛 getting spilt.</span>
+    <span>move on from a glass of spilt 🥛. </span>
   </span>
 </span>
 </h1>
