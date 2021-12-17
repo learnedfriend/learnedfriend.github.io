@@ -21,7 +21,7 @@ redirect_from:
   width:0%;
   max-width:max-content;
   overflow: hidden;
-  height:inherit;
+  height:1.3em;
   word-break:break-all;
   animation:
     c 0.5s infinite steps(1),  
