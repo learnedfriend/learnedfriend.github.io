@@ -44,15 +44,15 @@ redirect_from:
 }
 
     </style>
-<h1>
-  <span style="line-height: 1.4;"> Using law to </span><span class="type">
+<h2>
+  <span style="line-height: 1.4;"> </span><span class="type">
   <span>
-    <span>💧 over spilt 🥛.</span>
-    <span>prevent 🥛 getting spilt.</span>
-    <span>🪣 🧽 clean up spilt 🥛. </span>
+    <span>It's OK to 💧 over spilt 🥛.</span>
+    <span>But it's even better to prevent 🥛 getting spilt.</span>
+    <span>Whether your 🥛 is spilt or not, we can help. </span>
   </span>
 </span>
-</h1>
+</h2>
 
 
 I'm a New Zealand lawyer with six years' experience doing a mix of public, commercial, privacy, and property law. Whether you're trying to avoid legal risk or clean up a legal mess, I'm ready to help.
