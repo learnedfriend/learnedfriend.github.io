@@ -15,7 +15,7 @@ redirect_from:
 .type > span {
   display:grid;
   overflow: hidden;
-  height:1.2em;
+  height:1em;
 }
 .type span span {
   width:0%;
