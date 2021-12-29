@@ -55,7 +55,7 @@ redirect_from:
 </h1>
 
 
-I'm a New Zealand lawyer with six years' experience doing a mix of public, commercial, privacy, and property law. Whether you're trying to avoid legal risk or clean up a legal mess, I'm ready to help.
+I'm a New Zealand lawyer with six years' experience doing a mix of public, tech, commercial, privacy, and property law. Whether you're trying to avoid legal risk or clean up a legal mess, I'm ready to help.
 
 I was previously an in-house laywer with the New Zealand government, but now act for individuals, businesses and community organisations too. I do some pro-bono work, and am approved to take legal aid work with supervision from a senior lawyer.
 
