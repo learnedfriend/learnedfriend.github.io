@@ -55,15 +55,19 @@ redirect_from:
 </h2>
 
 
-I'm a New Zealand lawyer with six years' experience doing a mix of public, tech, commercial, privacy, and property law. Whether you're trying to avoid legal risk or clean up a legal mess, I'm ready to help.
+I'm a New Zealand lawyer with a knack for solving tricky legal problems. Whether you're trying to avoid legal risk or clean up a legal mess, I'm ready to help.
 
+
+
+
+## Ko wai ahau?
 I was previously an in-house laywer with the New Zealand government, but now act for individuals, businesses and community organisations too. I do some pro-bono work, and am approved to take legal aid work with supervision from a senior lawyer.
 
-I've got really varied interests. I grew up rurally but maintain a city-slicker disposition. I love tech, learned to [copy from StackOverflow](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/), and written heaps of [spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code). I [sued the Wellington City Council](https://www.stuff.co.nz/national/crime/125163476/lawyer-appeals-102yearold-law-about-wellingtons-milk-supply) to ~~get the sole rights to sell milk in Wellington~~ make a Very Clever point about the rule of law.  I care a lot about promoting joy and reducing suffering, and I am heavily involved with the [Effective Altruism movement](https://effectivealtruism.nz/). I know very little physics, but desperately want to know if the ['many-worlds' interpretation](https://plato.stanford.edu/entries/qm-manyworlds/) of quantum mechanics is true.
+I've got really varied interests. I grew up rurally but maintain a city-slicker disposition. I love tech, learned to [copy from StackOverflow](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/), and written heaps of [spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code). I [sued the Wellington City Council](https://www.stuff.co.nz/national/crime/125163476/lawyer-appeals-102yearold-law-about-wellingtons-milk-supply) to ~~get the sole rights to sell milk in Wellington~~ make a Very Clever point about the rule of law.  I care a lot about promoting joy and reducing suffering, and I am heavily involved with the [Effective Altruism movement](https://effectivealtruism.nz/).
 
-I am interested in sharing the law with non-legal audiences, and especially in using tech to help with that. I've published a bunch of information, free for anyone to use, to help solve some common 'small fry' legal problems.
+I am interested in sharing the law with non-legal audiences, and especially in using tech to help with that. I'm interested in the intersection of law and emerging technology, including things like automated decision making and 'rules as code'.
 
-I have a Master of Laws and bachelor's degrees in law and economics from Te Herenga Waka \| Victoria University of Wellington. Plus, I'm completing a Master of Environmental Management degree at Te Kunenga ki Pūrehuroa \| Massey University. I also have done a bit over half a BA in data science, which I hope to finish as work allows.
+I have a Master of Laws and bachelor's degrees in Law and Economics from Te Herenga Waka \| Victoria University of Wellington. I'm currently completing a Master of Environmental Management degree at Te Kunenga ki Pūrehuroa \| Massey University. I have completed just over half an undergraduate degree in Data Science (currently on hold).
 
 
 ## Am I a good choice of lawyer for you?
@@ -164,41 +168,10 @@ Testimonial: *insert here*
 </p>
 </details>
 
-<details><summary>You're dealing with government in relation to land (e.g. public works, reserves, rating valuation disputes, and Crown land matters).</summary>
+<details><summary><b>You're dealing with government in relation to land (e.g. public works, reserves, rating valuation disputes, and Crown land matters).</b></summary>
+<p>I have a strong knowledge of the legal framework within which government agencies acquire, administer, and dispose of land.</p>
 <p>
-
-I have a strong knowledge of the legal framework within which government agencies acquire, administer, and dispose of land.
-  
-I also have a strong understanding of the law relating to local government rating valuations, and can represent clients in the Land Valuation Tribunal. During the March-May 2020 COVID-19 lockdown in Aotearoa, I was heavily involved in (and helped draft) a [temporary amendment to the Rating Valuations Act 1998](https://www.legislation.govt.nz/act/public/2020/0013/latest/LMS343872.html).
-  
-</p>
-</details>
-
-<details><summary>You bought a lemon.</summary>
-<p>
-
-I'm uniquely enthusiastic about consumer law. If the thing you bought is reasonably expensive and fails to live up to the consumer guarantees, it might be worth engaging a lawyer to help you get the best result possible.
-  
-If it comes to it, I can help you prepare a high quality application to the Disputes Tribunal or Motor Vehicle Disputes Tribunal. Lawyers cannot represent clients in the Tribunal, but I can help you improve your chances of a successful outcome.
-  
-If the thing you bought is not very expensive at all, you might like to:
-  * use the templates and guidance on the self-help section of my website;
-  * ask about having your consumer issue featured on my podcast - I'll provide assistance free of charge, provided that you'll let me discuss it on the show (without identifying you).
-  
-</p>
-</details>
-
-
-<details><summary>Your landlord seems pathologically unable to comply with tenancy law.</summary>
-<p>
-
-I'm very eager to help renters stick up for their rights under tenancy law. I've got good experience in this area, having represented a public sector housing provider in complex Tenancy Tribunal matters, and on appeal in the District Court. I currently provide pro-bono advice to [Renters United!](https://www.rentersunited.org.nz/), a Wellington advocacy group that organises renters and campaigns to make renting better for everyone. ((drafting note: need to approach Renters United before this goes live))
-  
-I encourage people to look at the templates and guidance on the self-help section of my website in the first instance.
-  
-However, if your sense is that some support from a lawyer could turn the tide, I will take note of all of the issues you mention - even if your landlord hasn't - and then help you identify your legal rights (and responsibilities, and risks). I can help you draft a 14-day notice to remedy that covers all of the issues, and help you liaise with your landlord.
-  
-If your case is very complex, we can consider applying for permission for me to represent you in the Tribunal - lawyers cannot appear as a general rule, but I have successfully obtained permission in the past.
-  
+I also have a strong understanding of the law relating to local government rating valuations, and can represent clients in the Land Valuation Tribunal. During the March-May 2020 COVID-19 lockdown in Aotearoa, I was heavily involved in (and helped draft) a 
+<a href="https://www.legislation.govt.nz/act/public/2020/0013/latest/LMS343872.html">temporary amendment to the Rating Valuations Act 1998.</a>
 </p>
 </details>
