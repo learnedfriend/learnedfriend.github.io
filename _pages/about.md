@@ -73,10 +73,10 @@ To kick things off:
 
 ### Commercial and contracts law
 An enormous amount of mahi goes into making a small/medium business thrive. I'm really eager to play a small part in supporting your business to punch above its weight. Here are a few examples of ways I can help:
-- **Services and consultancy agreements** I've reviewed or negotiated over 100 services agreements, in areas as broad as software development, IT helpdesking, commercial property management, and maintenance of scientific equipment. Whether you need a contract-on-a-page for a $5,000 engagement or a master services agreement for a multi-faceted project, I've got the experience to help you negotiate quickly without compromising on the detail you'll need later on.
-- **Confidentiality agreements** Make sure your confidentiality agreement is more than a tick-box exercise. For simple matters, consider trying my free [confidentiality agreement builder](link).
-- **Sponsorship and funding agreements** If you're handing over a truckload of money on good faith, I can help you document exactly what kind of delivery and reporting requirements will help keep the project on track.
-- **Terms of service** I've drafted end-user terms for websites, web apps, online stores, and competitions and promotions.
-- **Data sharing and IP licencing** I have drafted data sharing agreements that have been executed by central government, local authorities, and large companies.
-- **Contract red teaming** In cybersecurity, Red Teaming is the practice of testing the security of your systems by engaging an expert to try to hack them. Hire me to do the same for your key commercial contracts, finding drafting errors and loopholes that the original drafter may not have considered.
+- **Services and consultancy agreements.** I've reviewed or negotiated over 100 services agreements, in areas as broad as software development, IT helpdesking, commercial property management, and maintenance of scientific equipment. Whether you need a contract-on-a-page for a $5,000 engagement or a master services agreement for a multi-faceted project, I've got the experience to help you negotiate quickly without compromising on the detail you'll need later on.
+- **Confidentiality agreements.** Make sure your confidentiality agreement is more than a tick-box exercise. For simple matters, consider trying my free [confidentiality agreement builder](link).
+- **Sponsorship and funding agreements.** If you're handing over a truckload of money on good faith, I can help you document exactly what kind of delivery and reporting requirements will help keep the project on track.
+- **Terms of service.** I've drafted end-user terms for websites, web apps, online stores, and competitions and promotions.
+- **Data sharing and IP licencing.** I have drafted data sharing agreements that have been executed by central government, local authorities, and large companies.
+- **Commercial red teaming.** In cybersecurity, Red Teaming is the practice of testing the security of your systems by engaging an expert to try to hack them. Hire me to do the same for your key commercial contracts, finding drafting errors and loopholes that the original drafter may not have considered.
 
