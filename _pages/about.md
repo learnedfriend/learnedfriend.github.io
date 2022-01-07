@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "I'm a 🥛 half-full lawyer."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
