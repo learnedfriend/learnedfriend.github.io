@@ -48,7 +48,7 @@ redirect_from:
   <span style="line-height: 1.4;"> </span><span class="type">
   <span>
     <span>It's OK to 💧 over spilt 🥛.</span>
-    <span>But it's even better to prevent 🥛 getting spilt.</span>
+    <span>But it's even better to keep the glass full. 🥛</span>
     <span>Whether your 🥛 is spilt or not, we can help. </span>
   </span>
 </span>
