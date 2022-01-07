@@ -79,4 +79,16 @@ An enormous amount of mahi goes into making a small/medium business thrive. I'm 
 - **Terms of service.** I've drafted end-user terms for websites, web apps, online stores, and competitions and promotions.
 - **Data sharing and IP licencing.** I have drafted data sharing agreements that have been executed by central government, local authorities, and large companies.
 - **Commercial red teaming.** In cybersecurity, Red Teaming is the practice of testing the security of your systems by engaging an expert to try to hack them. Hire me to do the same for your key commercial contracts, finding drafting errors and loopholes that the original drafter may not have considered.
+- **Tender responses.** With an extensive background supporting procurement teams and commercial decision-makers in government, I can help you respond effectively to a potential customer's request for proposals.
+
+TESTIMONIAL HERE
+
+### Emerging technology
+I am passionate about supporting clever people doing great things in science and technology. Particular career highlights for me so far have been advising on the establishment of the SouthPAN satellite-based augmentation system which will, when completed, improve the accuracy of GPS from ~10m to ~10cm, and the project to modernise Landonline, the New Zealand government's world-class survey and titles system.
+
+I bricked my first computer while still in primary school and was stood down from my intermediate school for... ahem... accessing parts of the school network I shouldn't have. I have taken a handful of computer science, data science, and statistics classes at university and write ~~pretty good~~ spaghetti code in Python, R, and Java. I'm never going to be up to scratch as a developer, but if you want a lawyer who has a pretty good idea what you and your engineers do, I'm not a bad choice.
+
+I'm particularly interested in legal issues arising out of emerging technologies, including developing rules as code, making decisions that affect legal rights using 'black box' predictive models, and the role of law in mitigating the risks arising out of potential future artificial general intelligences.
+
+TESTIMONIAL HERE
 
