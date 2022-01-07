@@ -24,9 +24,9 @@ redirect_from:
   height:inherit;
   word-break:break-all;
   animation:
-    c 1s infinite steps(1),  
-    t 4s linear infinite alternate,
-    m 24s steps(3) infinite;
+    c 2s infinite steps(1),  
+    t 8s linear infinite alternate,
+    m 48s steps(3) infinite;
 }
 .type span span:before {
   content:" ";
