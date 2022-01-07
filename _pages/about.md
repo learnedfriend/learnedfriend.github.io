@@ -49,7 +49,7 @@ redirect_from:
   <span>
     <span>It's OK to 💧 over spilt 🥛.</span>
     <spanBut not spilling 🥛 milk is better.</span>
-    <span>Whether your 🥛 is ½ full or ½ empty, we can help.</span>
+    <span>Whether your 🥛 is 1 full or 1 empty, we can help.</span>
   </span>
 </span>
 </h1>
