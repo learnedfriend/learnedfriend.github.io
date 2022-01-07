@@ -69,6 +69,10 @@ To kick things off:
 
 *If you are looking for a lawyer to help you buy/sell a house, please see the [find a property lawyer page on the NZLS Property Law section website](http://www.propertylawyers.org.nz/public/find-a-lawyer).*
 
-## Testimonials
+## Practice areas
 
-### Areas I practice in
+####Commercial and contracts law**
+An enormous amount of mahi goes into making a small/medium business thrive. I'm really eager to play a small part in supporting your business to punch above its weight. Here are a few examples of ways I can help:
+- **Services agreements** I've reviewed or negotiated over 100 services agreements, in areas as broad as software development, IT helpdesking, commercial property management, and maintenance of scientific equipment. Whether you need a contract-on-a-page for a $5,000 engagement or a master services agreement for a multi-faceted project, I've got the experience to help you negotiate quickly without compromising on the detail you'll need later on.
+- ****
+
