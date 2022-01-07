@@ -48,8 +48,8 @@ redirect_from:
   <span style="line-height: 1.4;"> </span><span class="type">
   <span>
     <span>It's OK to 💧 over spilt 🥛.</span>
-    <spanBut not spilling 🥛 milk is better. </span>
-    <span>Whether your 🥛 is ½ full or ½ empty, we can help. </span>
+    <spanBut not spilling 🥛 milk is better.</span>
+    <span>Whether your 🥛 is ½ full or ½ empty, we can help.</span>
   </span>
 </span>
 </h1>
