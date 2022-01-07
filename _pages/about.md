@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I'm a 🥛 half-full lawyer."
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,9 +24,9 @@ redirect_from:
   height:inherit;
   word-break:break-all;
   animation:
-    c 2s infinite steps(1),  
-    t 8s linear infinite alternate,
-    m 48s steps(3) infinite;
+    c 1s infinite steps(1),  
+    t 4s linear infinite alternate,
+    m 24s steps(3) infinite;
 }
 .type span span:before {
   content:" ";
@@ -44,15 +44,15 @@ redirect_from:
 }
 
     </style>
-<h2>
+<h1>
   <span style="line-height: 1.4;"> </span><span class="type">
   <span>
     <span>It's OK to 💧 over spilt 🥛.</span>
-    <span>But it's even better to prevent 🥛 getting spilt. </span>
-    <span>Whether your 🥛 is spilt or not, we can help. </span>
+    <spanBut not spilling 🥛 milk is better. </span>
+    <span>Whether your 🥛 is ½ full or ½ empty, we can help. </span>
   </span>
 </span>
-</h2>
+</h1>
 
 
 I'm a New Zealand lawyer with a knack for solving tricky legal problems. Whether you're trying to avoid legal risk or clean up a legal mess, I'm ready to help.
