@@ -1,17 +1,9 @@
 # main links links
 main:
-  - title: "Hire Me"
-    url: /advice/
-
-  - title: "Self Help Tools"
-    url: /selfhelp/
         
   - title: "Blog"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+  
 
     
     #/markdown/
