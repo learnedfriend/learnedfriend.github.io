@@ -81,40 +81,20 @@ analytics:
 # Site Author
 author:
   name             : "Tyrone-Jay Barugh 🥛"
-  avatar           : "lf.png"
-  bio              : "Barrister and Solicitor"
-  location         : "Pōneke | Wellington, NZ"
+  avatar           : "1639339318074.jpg"
+  bio              : "Admitted in NZ in 2016, NSW in 2022."
+  location         : "Remote (London from September 2022)"
   phone            : "+64 27 357 1665"
-  pubmed           : 
-  googlescholar    : 
   email            : "tyrone@spiltmilk.nz"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "@BarughTyrone"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  links            :
+    - label: "Book a time to meet"
+      icon: "fa-solid fa-calendar-plus"
+      url: "https://app.usemotion.com/meet/tyrone-barugh/meeting"
+    - label: "Admitted to practise in NZ in 2016"
+      icon: "fa-solid fa-scale-balanced"
+    - label: "Admitted to practise in New South Wales in 2022"
+      icon: "fa-solid fa-scale-balanced"
 
 
 # Reading Files
