@@ -55,7 +55,7 @@ redirect_from:
 </h1>
 
 
-<b>Kia ora!</b> I'm a New Zealand lawyer interested in solving tricky problems. Whether you're trying to avoid legal risk or clean up a legal mess, I'm ready to help.
+<b>Kia ora!</b> I'm a New Zealand lawyer and researcher interested in solving tricky problems. Whether you're trying to avoid legal risk or clean up a legal mess, I'm ready to help.
 
 I was previously an in-house laywer with the New Zealand government, but now act for individuals, businesses and community organisations too. I am especially interested in solving legal problems for people doing promising things in the [longtermism](https://en.wikipedia.org/wiki/Longtermism) and [effective altruism](https://en.wikipedia.org/wiki/Effective_altruism) movements.
 
@@ -65,4 +65,10 @@ I'm particularly interested in legal issues arising out of emerging technologies
 - making decisions that affect legal rights using 'black box' models with high predictive performance but low inferability;
 - the role of law in mitigating the risks arising out of potential future artificial general intelligences.
 
-I am currently working on a project funded by the FTX Future Fund to explore the need for specialised legal services for the effective altruism and longtermist ecosystems. For the avoidance of doubt, I am not otherwise affiliated with them - all my views are my own, etc etc.
+I am currently working on a project funded by the [FTX Future Fund](https://ftxfuturefund.org/principles/) to explore the need for specialised legal services for the effective altruism and longtermist ecosystems. For the avoidance of doubt, I am not otherwise affiliated with FTX - all my views are my own, etc etc.
+
+To get in touch, please email me (tyrone [at] spiltmilk [dot] nz) or just [book a time in my calendar](https://app.usemotion.com/meet/tyrone-barugh/meeting). 
+
+---
+
+*What's up with the name? In 2021, I sued the Wellington City Council in the High Court to request that they enforce the Wellington City Milk-supply Act 1919, an outdated piece of law that gives the council a monopoly on the sale of milk within the city. The city fought me tooth and nail, but agreed to write to Parliament to request that the Wellington City Milk-supply Act 1919 be included in an appropriate future omnibus bill. It's not exactly the most effective thing I could have done with my time, but we all need hobbies. For more, you can listen to me [discuss the case on Radio New Zealand](https://www.rnz.co.nz/national/programmes/thepanel/audio/2018836032/the-pre-panel-with-scott-campbell-and-sarah-sparks).*
